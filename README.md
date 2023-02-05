@@ -5,6 +5,8 @@ This is a Node.js + Express model-controller architecture template.
 1. Make sure you have Node.js & npm installed on your machine.
 2. In the root of this folder run "npm install" command in order to download all the dependencies.
 3. Make sure port 3003 is not used by another app on your machine, or edit the port in /src/utils/constants.
+4. Run the command npm run dev.
+5. Open the browser or send a GET request to http://localhost:3003/example/show .
 
 ### How it works:
 The entry point in this app is the /src/server.js file. This file bootstraps the app and is responsible for incoming requests on port 3003
