@@ -1,6 +1,6 @@
 # express-model-controller-core
 
-<img src="https://www.bairesdev.com/wp-content/uploads/2021/07/Expressjs.svg"  width="60%" height="30%">
+<img src="https://www.bairesdev.com/wp-content/uploads/2021/07/Expressjs.svg"  width="40%" height="30%">
 
 This is a Node.js + Express model-controller architecture template.
 
